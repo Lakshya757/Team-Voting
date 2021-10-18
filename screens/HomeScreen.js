@@ -4,8 +4,7 @@ import {
   View,
   StyleSheet,
   TouchableOpacity,
-  Header,
-  Image,
+  Image
 } from 'react-native';
 
 import AppHeader from '../components/AppHeader';
